@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Thomas Devisscher.
 
-<!--
-**devisscher/devisscher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on front-end stuff 
+- 🚲 🏃 Ask me about JavaScript and or Cycling and Running  
+- 👨 He/Him 
+- 😎 Fun fact: self-taught developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Connect with me 
+
+- [Twitter](https://twitter.com/devisscher)
+- [Strava](https://www.strava.com/athletes/1931557)
+- [LinkedIn](https://www.linkedin.com/in/devisscher/)
+- [Website](https://tdev.tech)
