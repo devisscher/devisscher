@@ -11,4 +11,5 @@
 - [Twitter](https://twitter.com/devisscher)
 - [Strava](https://www.strava.com/athletes/1931557)
 - [LinkedIn](https://www.linkedin.com/in/devisscher/)
-- [Website](https://tdev.tech)
+- [Website](https://devisscher.ca)
+- [Instagram](https://www.instagram.com/tdevisscher)
